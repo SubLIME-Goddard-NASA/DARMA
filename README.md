@@ -3,7 +3,7 @@ Detection Automation of Rotational-peaks and Molecular Assignments
 
 Welcome to DARMA (Detection Automation of Rotational-peaks and Molecular Assignment). This program was developed around the needs of SubLIME Lab at NASA Goddard, Code 691, but has the capability of being used by any laboratory who may want to automate the peak detection and molecular assignment process for a pure-rotational transitions. This document first informs the user of which dependencies to download prior to using DARMA and then walks the user through the steps outlined in the notebook. All parameters for the user to input in the notebook are surrounded by “***”. Most parameters are file paths, and the default paths inputted should be suffice, so long as the user populates the folder within DARMA with the its corresponding data. To do this, populate ”DARMA  > LWA_Data” with your lwa files and populate “”DARMA > Power_Correction” with your power correction file. 
 
-NOTE: If you are reading this on GitHub, begin by downloading the whole DARMA folder (including its subdirectories and files).
+NOTE: If you are reading this on GitHub, begin by cloning the whole DARMA folder (including its subdirectories and files) to your home directory.
 
 Install the following dependencies:
 
